@@ -1,2 +1,2 @@
 # bake-Sale-Website
-on the web you will be able to place orders and these orders will be saved in a database, the bakery will be able to see the orders placed by the users.
+this website is to practice my skills as a web developer. for this practice I will use html,css,js,php and boostrap.
